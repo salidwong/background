@@ -5,8 +5,8 @@ import { Introduction } from '../containers/Home'
 export const Home: React.FC = () => {
     return (
         <>
-        <Header />
-        <Introduction />
+            <Header />
+            <Introduction />
         </>
     )
 }
