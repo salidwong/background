@@ -11,7 +11,6 @@ module.exports = {
     "prettier",
     "prettier/react",
     "prettier/standard",
-    // "typescript"
 
   ],
   parser: "@typescript-eslint/parser",
@@ -25,7 +24,6 @@ module.exports = {
     "react",
     "@typescript-eslint",
     "prettier",
-    // "typescript"
   ],
   rules: {
     "prettier/prettier": "error",
